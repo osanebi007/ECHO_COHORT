@@ -1,0 +1,5 @@
+/nenv
+./nenv
+*.pyc
+__pycache__/
+/media
